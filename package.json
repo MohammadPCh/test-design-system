@@ -72,6 +72,6 @@
     "@semantic-release/git"
   ],
   "release": {
-    "branches": ["master"]
+    "branches": ["main"]
   }
 }
